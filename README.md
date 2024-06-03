@@ -38,14 +38,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=777BB4)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/PWA-000?style=for-the-badge&logo=pwa&logoColor=FFF)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/Docker_compose-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=F05925)](https://docs.github.com/)
-[![GitHub](https://img.shields.io/badge/bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F05925)](https://docs.github.com/)
+[![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)](https://www.php.net/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=777BB4)](https://getbootstrap.com/)
+[![MySQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)](https://www.mysql.com/)
+[![PWA](https://img.shields.io/badge/PWA-000?style=for-the-badge&logo=pwa&logoColor=FFF)](https://www.pwabuilder.com/)
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://www.docker.com/)
+[![Docker-compose](https://img.shields.io/badge/Docker_compose-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://docs.docker.com/compose/)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=F05925)](https://ubuntu.com/)
+[![Bitcoin](https://img.shields.io/badge/bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F05925)](https://bitcoin.org/)
 
 </div>
 
