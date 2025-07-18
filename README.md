@@ -46,7 +46,8 @@
 [![Docker-compose](https://img.shields.io/badge/Docker_compose-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://docs.docker.com/compose/)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=F05925)](https://ubuntu.com/)
 [![Bitcoin](https://img.shields.io/badge/bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F05925)](https://bitcoin.org/)
-
+[![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=F05925)](https://angular.dev)
+[![Angular](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=F05925)](https://www.typescriptlang.org)
 </div>
 
 
@@ -58,8 +59,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francissantiago&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=francissantiago&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francissantiago&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <br>
 <div align="center">
