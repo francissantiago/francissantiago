@@ -1,88 +1,94 @@
-<h1>
-  🙋🏽‍♂️ Fala galera! Sejam bem vindos ao meu perfil!
-</h1>
-<p>
-    Com uma sólida experiência na aplicação de metodologias ágeis, especializo-me em arquitetar soluções backend robustas que impulsionam aplicativos sem problemas e escaláveis.
-    <br><br>
-    Minha abordagem iterativa à programação está alinhada com o pensamento estratégico, promovendo o desenvolvimento colaborativo e agregando valor significativo aos projetos.
-    <br><br>
-    Abaixo, você irá conhecer um pouco mais sobre o meu perfil profissional.
+<div align="center">
+  <h1>Hi there! I'm Francis Santiago 👋</h1>
+  <h3>Software Engineer | Full Stack (Angular & Node.js) | Web3 Specialist</h3>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-francissant/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:francis1505@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://sperocoin.org">
+    <img src="https://img.shields.io/badge/-SperoCoin_Project-777BB4?style=for-the-badge&logo=blockchain&logoColor=white" alt="SperoCoin"/>
+  </a>
 </p>
+
 <hr>
-<div align="center">
-  <h1>FRANCIS SANTIAGO</h1>
-    <p>
-      Além de ser desenvolvedor web, gosto de atividades ao ar livre e do campo, longe das grandes cidades. Também sou amante de consertos de computadores e notebooks, e entre 2017 e 2019 mantive uma loja especializada nesse tipo de conserto.
-      <br><br>
-      Admirador de tecnologia e criptomoedas, sou membro ativo da comunidade bitcointalk, além de ter participações em outros projetos, como no bitcoin.
-    </p>
 
-  <br>
-
-<div align="center">
-  <h1>ME ENCONTRE</h1>
-<br>
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/francis1505)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:francis1505@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dev-francissant/)
+<p align="center">
+  I am a pragmatic <strong>Software Engineer</strong> with over <strong>6 years of experience</strong> bridging the gap between legacy stability and modern innovation. 
+  <br><br>
+  Currently completing my B.Sc. in Computer Science, I specialize in building scalable SPAs with <strong>Angular 17+</strong> and serverless architectures using <strong>Node.js</strong> and <strong>AWS</strong>.
+  <br><br>
+  🚀 <strong>Web3 Native:</strong> Beyond traditional web development, I am a blockchain enthusiast and the <strong>Creator & Core Developer of SperoCoin</strong>. I have hands-on experience with Solidity, Smart Contracts, and the Bitcoin Core ecosystem.
+  <br><br>
+  <em>When I'm not coding, you can find me enjoying outdoor activities and life in the countryside, disconnecting to reconnect.</em>
+</p>
 
 <br>
 
 <div align="center">
-  <h1>MINHAS HABILIDADES</h1>
-<br>
+  <h2>🛠️ TECHNICAL ARSENAL</h2>
+  
+  <p><strong>Frontend & Frameworks</strong></p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  
+  <p><strong>Backend & Cloud</strong></p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)](https://www.php.net/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=777BB4)](https://getbootstrap.com/)
-[![MySQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)](https://www.mysql.com/)
-[![PWA](https://img.shields.io/badge/PWA-000?style=for-the-badge&logo=pwa&logoColor=FFF)](https://www.pwabuilder.com/)
-[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://www.docker.com/)
-[![Docker-compose](https://img.shields.io/badge/Docker_compose-000?style=for-the-badge&logo=docker&logoColor=FFF)](https://docs.docker.com/compose/)
-[![Ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=F05925)](https://ubuntu.com/)
-[![Bitcoin](https://img.shields.io/badge/bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F05925)](https://bitcoin.org/)
-[![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=F05925)](https://angular.dev)
-[![Angular](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=F05925)](https://www.typescriptlang.org)
+  <p><strong>Web3 & Blockchain</strong></p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Bitcoin_Core-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </div>
 
-
 <br>
+
 <div align="center">
-  <h1>GITHUB STATS</h1>
-  <br>
+  <h2>📊 ENGINEERING METRICS</h2>
+  <img src="https://github.com/francissantiago/francissantiago/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francissantiago&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francissantiago&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 <br>
+
 <div align="center">
-  <h1>PRINCIPAIS REPOSITÓRIOS</h1>
-  <br>
+  <h2>🏆 FEATURED PROJECTS</h2>
+
+  <div>
+    <a href="https://github.com/LightBurdenOfficial/SperoCoin">
+      <img src="https://socialify.git.ci/LightBurdenOfficial/SperoCoin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="SperoCoin" width="33%" />
+    </a>
+    
+   <a href="https://github.com/francissantiago/Checkout_Transparente_PIX">
+      <img src="https://socialify.git.ci/francissantiago/Checkout_Transparente_PIX/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Checkout PIX" width="33%" />
+    </a>
+  
+   <a href="https://github.com/francissantiago/xWorkConnect-PHP">
+      <img src="https://socialify.git.ci/francissantiago/xWorkConnect-PHP/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="xWorkConnect" width="33%" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/francissantiago/angular-coderoom">
+      <img src="https://socialify.git.ci/francissantiago/angular-coderoom/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Angular Coderoom" width="33%" />
+    </a>
+
+  <a href="https://github.com/francissantiago/sperocoin-advanced-coin-control">
+      <img src="https://socialify.git.ci/francissantiago/sperocoin-advanced-coin-control/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Sperocoin Advanced Coin Control" width="33%" />
+   </a>
+
+  <a href="https://github.com/francissantiago/peatio-spero-exchange">
+      <img src="https://socialify.git.ci/francissantiago/peatio-spero-exchange/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Spero Exchange - Peatio Based" width="33%" />
+   </a>
+  </div>
 </div>
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=Checkout_Transparente_PIX&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/Checkout_Transparente_PIX)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=Checkout_Transparente_Debito&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/Checkout_Transparente_Debito)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=Checkout_Transparente_Credito&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/Checkout_Transparente_Credito)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=xWorkConnect-PHP&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/xWorkConnect-PHP)
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=L2Amadus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/L2Amadus)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=LightBurdenOfficial&repo=SperoCoin&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LightBurdenOfficial/SperoCoin)
-
-<br>
-<div align="center">
-  <h1>PRINCIPAIS DESAFIOS DIO</h1>
-  <br>
-</div>
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/dio-lab-open-source)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=francissantiago&repo=DIO-ERC20&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/francissantiago/DIO-ERC20)
-
-<br>
 <hr>
