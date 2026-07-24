@@ -64,31 +64,32 @@
   <h2>🏆 FEATURED PROJECTS</h2>
 
   <div>
-    <a href="https://github.com/LightBurdenOfficial/SperoCoin">
+    <a href="https://github.com/francissantiago/AIC_APP">
+      <img src="https://socialify.git.ci/francissantiago/AIC_APP/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="AIC — Administração de Igrejas Cristãs" width="33%" />
+    </a>
+   <a href="https://github.com/LightBurdenOfficial/SperoCoin">
       <img src="https://socialify.git.ci/LightBurdenOfficial/SperoCoin/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="SperoCoin" width="33%" />
     </a>
-    
    <a href="https://github.com/francissantiago/Checkout_Transparente_PIX">
       <img src="https://socialify.git.ci/francissantiago/Checkout_Transparente_PIX/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Checkout PIX" width="33%" />
     </a>
-  
-   <a href="https://github.com/francissantiago/xWorkConnect-PHP">
+  </div>
+
+  <div>
+    <a href="https://github.com/francissantiago/xWorkConnect-PHP">
       <img src="https://socialify.git.ci/francissantiago/xWorkConnect-PHP/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="xWorkConnect" width="33%" />
     </a>
-  </div>
-  <div>
     <a href="https://github.com/francissantiago/angular-coderoom">
       <img src="https://socialify.git.ci/francissantiago/angular-coderoom/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Angular Coderoom" width="33%" />
     </a>
-
-  <a href="https://github.com/francissantiago/sperocoin-advanced-coin-control">
+    <a href="https://github.com/francissantiago/sperocoin-advanced-coin-control">
       <img src="https://socialify.git.ci/francissantiago/sperocoin-advanced-coin-control/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Sperocoin Advanced Coin Control" width="33%" />
-   </a>
-
-  <a href="https://github.com/francissantiago/peatio-spero-exchange">
+    </a>
+    <a href="https://github.com/francissantiago/peatio-spero-exchange">
       <img src="https://socialify.git.ci/francissantiago/peatio-spero-exchange/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Spero Exchange - Peatio Based" width="33%" />
-   </a>
+    </a>
   </div>
+
 </div>
 
 <hr>
