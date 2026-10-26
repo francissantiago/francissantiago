@@ -18,7 +18,7 @@
 <hr>
 
 <p align="center">
-  I am a pragmatic <strong>Software Engineer</strong> with over <strong>6 years of experience</strong> bridging the gap between legacy stability and modern innovation. 
+  I am a pragmatic <strong>Software Engineer</strong> with over <strong>10 years of experience</strong> bridging the gap between legacy stability and modern innovation. 
   <br><br>
   Currently completing my B.Sc. in Computer Science, I specialize in building scalable SPAs with <strong>Angular 17+</strong> and serverless architectures using <strong>Node.js</strong> and <strong>AWS</strong>.
   <br><br>
